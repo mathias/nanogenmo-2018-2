@@ -2,11 +2,11 @@
 
 <!--Inspired by the NaNoGenMo 2018 entry [The League of Extraordinarily Dull Gentlemen](https://github.com/NaNoGenMo/2018/issues/6).-->
 
-This novel uses ClojureScript to generate a journal-style novel.
+This novel uses JavaScript to generate a journal-style novel.
 
 ## Dev Diary
 
-In [the issue]() on the NaNoGenMo 2018 repo.
+In [the issue](https://github.com/NaNoGenMo/2018/issues/101) on the NaNoGenMo 2018 repo.
 
 
 ## Local setup

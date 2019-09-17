@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "tracery": "^1.0.3",
     "tracery-grammar": "^2.7.3"
   }
